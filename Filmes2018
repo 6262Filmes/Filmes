@@ -1,5 +1,45 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="A Justiceira
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VQ9vZSG/A-Justiceira-CAPA.jpg" group-title="A Justiceira" pltv-subgroup="",A Justiceira (1080p - Full HD)
+m37
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VQ9vZSG/A-Justiceira-CAPA.jpg" group-title="A Justiceira" pltv-subgroup="",A Justiceira (720p - HD)
+m22
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VQ9vZSG/A-Justiceira-CAPA.jpg" group-title="A Justiceira" pltv-subgroup="",A Justiceira (480p - SD)
+m18
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VQ9vZSG/A-Justiceira-CAPA.jpg" group-title="A Justiceira" pltv-subgroup="",A Justiceira (240p - SD)
+m36
+
+#EXTINF:-1 tvg-logo="Deus Não Está Morto - Uma Luz na Escuridão
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZBf2jGy/Deus-Nao-Esta-Morto-Uma-Luz-na-Escuridao-CAPA.jpg" group-title="Deus Não Está Morto - Uma Luz na Escuridão" pltv-subgroup="",Deus Não Está Morto - Uma Luz na Escuridão (1080p - Full HD)
+m37
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZBf2jGy/Deus-Nao-Esta-Morto-Uma-Luz-na-Escuridao-CAPA.jpg" group-title="Deus Não Está Morto - Uma Luz na Escuridão" pltv-subgroup="",Deus Não Está Morto - Uma Luz na Escuridão (720p - HD)
+m22
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZBf2jGy/Deus-Nao-Esta-Morto-Uma-Luz-na-Escuridao-CAPA.jpg" group-title="Deus Não Está Morto - Uma Luz na Escuridão" pltv-subgroup="",Deus Não Está Morto - Uma Luz na Escuridão (480p - SD)
+m18
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZBf2jGy/Deus-Nao-Esta-Morto-Uma-Luz-na-Escuridao-CAPA.jpg" group-title="Deus Não Está Morto - Uma Luz na Escuridão" pltv-subgroup="",Deus Não Está Morto - Uma Luz na Escuridão (240p - SD)
+m36
+
+#EXTINF:-1 tvg-logo="Os Farofeiros
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZNCGXxn/Os-Farofeiros-CAPA.jpg" group-title="Os Farofeiros" pltv-subgroup="",Os Farofeiros (1080p - Full HD)
+m37
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZNCGXxn/Os-Farofeiros-CAPA.jpg" group-title="Os Farofeiros" pltv-subgroup="",Os Farofeiros (720p - HD)
+m22
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZNCGXxn/Os-Farofeiros-CAPA.jpg" group-title="Os Farofeiros" pltv-subgroup="",Os Farofeiros (480p - SD)
+m18
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZNCGXxn/Os-Farofeiros-CAPA.jpg" group-title="Os Farofeiros" pltv-subgroup="",Os Farofeiros (240p - SD)
+m36
+
+#EXTINF:-1 tvg-logo="Scooby-Doo! e o Fantasma Gourmet
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2N6CGmc/Scooby-Doo-e-o-Fantasma-Gourmet-CAPA.jpg" group-title="Scooby-Doo! e o Fantasma Gourmet" pltv-subgroup="",Scooby-Doo! e o Fantasma Gourmet (1080p - Full HD)
+m37
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2N6CGmc/Scooby-Doo-e-o-Fantasma-Gourmet-CAPA.jpg" group-title="Scooby-Doo! e o Fantasma Gourmet" pltv-subgroup="",Scooby-Doo! e o Fantasma Gourmet (720p - HD)
+m22
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2N6CGmc/Scooby-Doo-e-o-Fantasma-Gourmet-CAPA.jpg" group-title="Scooby-Doo! e o Fantasma Gourmet" pltv-subgroup="",Scooby-Doo! e o Fantasma Gourmet (480p - SD)
+m18
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2N6CGmc/Scooby-Doo-e-o-Fantasma-Gourmet-CAPA.jpg" group-title="Scooby-Doo! e o Fantasma Gourmet" pltv-subgroup="",Scooby-Doo! e o Fantasma Gourmet (240p - SD)
+m36
+
 #EXTINF:-1 tvg-logo="A Favorita
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bFB89xq/A-Favorita-CAPA.jpg" group-title="A Favorita" pltv-subgroup="",A Favorita (720p - HD)
 https://lh3.googleusercontent.com/tbd6vk-qn8YHK92JaQzVdydVLJhQpE9k7t0j5Wfo17_5J-uNxmwWPC9wrrjSMFKGZDRzFX0zcEoZt_X7K2skcfS1dAD-xGEmNzUoS9MwRD4VuV26gEkG3YvGhFNk5o4EkYHIrd0-8gCmR_NgTqzyzMxv5REqJeGUILmWpOl9WyIq56iS_KaBuFiHu6mWrpK_1aOJCOI2gL_-YxMVO51NxEhIKge98pmduThbcFiu-_kSXJ_AVtUyARUUyqlS7Zm_mgvOAM2V_1TQUa4YLXBk7S1akiI-SVqIdCT16tNaM_mkzpeDsIhVC_7dNEnGNCHF1wmBWE-ReCXPm0XMDs8pnxEIRJb27koZ6zVKb6b-MK4XCCvKBfkeZDzoITE3IaDClaGIbzIqZZzEad03saEik7KSv09EnXDBBqBiMSWUYjV01Wp0j_9yXx7us7PIsaDpWIL1cn3LVJBXp2gY6HsOR0SHgkxNaQxjzIn-7i7_JYKLOolbRSTucgMdpakTV4478uJjsA5GTZ6R9ED9Kr5xTxBijSxGKbOb0LHVA9E9nKQPid1TaQPRgGGjTX-dC71NxQ7wRYDfWyUNTmxTaQgeCuYkHLlOjGB7J2pkyovZ9ENPSctXxWcPjiy_mtydTbF_ASFGNTm7-fwteVB1XXBU3zVaFUuMJg=m22
