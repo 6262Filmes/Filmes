@@ -8,17 +8,12 @@ https://lh3.googleusercontent.com/VJKhLlVG8gZ8f2D3iV2cqRF4XQzxL2qorpfbgCaDLhQgiX
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ncmPVZc/Supera-o-O-Milagre-da-F-CAPA.jpg" group-title="SuperaÃ§Ã£o: O Milagre da FÃ©" pltv-subgroup="",SuperaÃ§Ã£o: O Milagre da FÃ© (240p - SD)
 https://lh3.googleusercontent.com/VJKhLlVG8gZ8f2D3iV2cqRF4XQzxL2qorpfbgCaDLhQgiXAthXrEqOmsib9YFK-wxTwUliMBYODL5NBDkkcg9ruvURFrYLhBFbvO9FAvo3KaTLYtRLEZ18cn5cfuJelYO4_oMi6JSWQoQTFRI6RULGi1W6xHUcxJhiDtWw2KDe3G855AiMlp8h9dYro5L_Q_xg8kVz93jYu90jnheunoyvNv2TmNqGAHRrj2-bKFog9JP8KKwKMbFn8X9yg3TC_dC-rZE65W6333IydkX6v-_xbE6EGqhIRSkF6ZI5vejKPox0xavwyddVast_-gDC8P6_xpX64JnlsMHXxo813WVk5jwU_TcsxYkBAKkxB89NRJUoS6HyzusTfrqAtWW30S4vMBZTO6dr2KtEjWnHJ-YlzBWVJ9h3XEEYUHnZw0iQ3-MAq4gzSEAfL32Y_wwFRbMME4Ab_dhtzlsYeG1H1V61e9kSrEbjVqrelCWNCmnR71oWXGFYm9_XCZev8s0sJwRZ6obHuIL810XHNhfdqp4OUxcyRoKAN7HoGNKl1bxWD0BqgiB4jLytpwPWvNIAQ8O0xCE-b7U91FrC653d0rZLaBDjppJTzgFDBrXIyZXCsSCILRH730YGrFYnQgwDYwHf5vTtxHJAMRoy2aaMQG7YYxFpMtDXQ=m36
 
-#EXTINF:-1 tvg-logo="Cartoon Network
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GWYGbQp/Cartoon-Network2.jpg" group-title="Desenhos" pltv-subgroup="",Cartoon Network (1080p - Full HD)
-https://d10uk7xyz104pv.cloudfront.net/hls1/cartoon.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNy8yMDE5IDU6MDI6MzAgQU0maGFzaF92YWx1ZT1vWlU2SGVha3hRTWlqOWpuZng4KzNBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-
-#EXTINF:-1 tvg-logo="Warner TV
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wyJ5BvC/Warner-TV2.png" group-title="Filmes e SÃ©ries" pltv-subgroup="",Warner TV (720p - HD)
-https://assistirtvonline.xyz:25463/live/Sabadao/Gelo/116.m3u8
-#EXTINF:-1 tvg-logo="Discovery Channel
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xjS0qFm/Discovery-Channel2.jpg" group-title="DocumentÃ¡rio" pltv-subgroup="",Discovery Channel (1080p - Full HD)
-https://d2poqgbkc6fz05.cloudfront.net/hls1/discovery.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDE5IDc6MDE6MjcgUE0maGFzaF92YWx1ZT1OY0FGTHZyWGpEUVVkUjR5bjNqdlVnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-
-#EXTINF:-1 tvg-logo="HTO+
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Pw2pkXv/HBO-Plus.jpg" group-title="Filmes e SÃ©ries" pltv-subgroup="",HBO+ (720p - HD)
-https://assistirtvonline.xyz:25463/live/Sabadao/Gelo/56.m3u8
+#EXTINF:-1 tvg-logo="Batman: Silêncio
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ncmPVZc/Supera-o-O-Milagre-da-F-CAPA.jpg" group-title="Batman: Silêncio" pltv-subgroup="",Batman: Silêncio (1080p - Full HD)
+m37
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ncmPVZc/Supera-o-O-Milagre-da-F-CAPA.jpg" group-title="Batman: Silêncio" pltv-subgroup="",Batman: Silêncio (720p - HD)
+m22
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ncmPVZc/Supera-o-O-Milagre-da-F-CAPA.jpg" group-title="Batman: Silêncio" pltv-subgroup="",Batman: Silêncio (480p - SD)
+m18
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ncmPVZc/Supera-o-O-Milagre-da-F-CAPA.jpg" group-title="Batman: Silêncio" pltv-subgroup="",Batman: Silêncio (240p - SD)
+m36
