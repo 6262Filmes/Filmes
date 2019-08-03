@@ -1,5 +1,5 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="FILMES, SÉRIES, ANIMES E DORAMAS POR LINK
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-app-png-16.png" group-title="A" pltv-subgroup="B",FILMES SÉRIES ANIMES E DORAMAS POR LINK
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-app-png-16.png" group-title="D" pltv-subgroup="B",FILMES SÉRIES ANIMES E DORAMAS POR LINK
 http://roda8080.azureedge.net/RCServer05/ondemand/SPNT08EP15.mp4?attachment=true
