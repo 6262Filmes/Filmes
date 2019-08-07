@@ -1,5 +1,15 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="
+#EXTINF:-1 tvg-logo="" group-title="" pltv-subgroup="", (1080p - Full HD)
+m37
+#EXTINF:-1 tvg-logo="" group-title="" pltv-subgroup="", (720p - HD)
+m22
+#EXTINF:-1 tvg-logo="" group-title="" pltv-subgroup="", (480p - SD)
+m18
+#EXTINF:-1 tvg-logo="" group-title="" pltv-subgroup="", (240p - SD)
+m36
+
 #EXTINF:-1 tvg-logo="A-X-L: O Cão Robô
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dcBjdpv/A-X-L-O-C-o-Rob-CAPA.jpg" group-title="A-X-L: O Cão Robô" pltv-subgroup="",A-X-L: O Cão Robô (1080p - Full HD)
 https://lh3.googleusercontent.com/xkkeBi3fzvn_u3TPxSl5rog4leRIfaubR7g_u64VHwfanG1JAOYNFeIMnE9i-Yn4K2UE92PjIgt1vZ3durSycasaR4hdAjjV2q6tnjtaFp1aXr_ja7Ouvp5EDk6jye5dNOqI9fVZK6tU1ESJBPFcwSLh2DZDLTQNQFvEOeJnGFEH9fthxJ3VYhMWo35gl53E3kbrPNaQeSvHZ9qFD9M8ouNszo_RYGv8wO8PhEB9XMmXAcEmQR78I0O2el4lVfMoULXkVugAvGP-xzNhrKGlhLrbQVcCBNpfohTv5Xlb7eaYmOxo3kU1eA_v--Gp7NhfpFCApfzNpwDNlDv530vvkCHNpjSM9YzxFTXkmTk46KzEQbGeAErHlHKgqFQ57lszz-ZfdMMvd2ybs4aRfym8vlLT59TaNFN-cMX1hAvGYuVJgvVXqHleg2Z8VnrmRwMaJJqCiKijFUa48W3D8RQxQcw7tIknLfB0JSuhVP7YJ3aKkMK3kRMufrb8mEvS5mgFksHR9OlFm2wThBAVm1XmgYQqJrJMzzSOf215OE7xq0jUlCvWEodCZl5nujZVENtao818Jfo9cPtnnJ6uWejjblo3Ap9oGJzNV5MBmWDPmEH-JXr9kbtEZrYyptyX-5kBYjEpF4xDqzP35ODvCEJogYbIIYy8jlQ=m37
