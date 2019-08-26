@@ -10,6 +10,16 @@ m18
 #EXTINF:-1 tvg-logo="" group-title="" pltv-subgroup="", (240p - SD)
 m36
 
+#EXTINF:-1 tvg-logo="Whindersson Nunes - Adulto
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qCM2LtM/Whindersson-Nunes-Adulto-CAPA.jpg" group-title="Whindersson Nunes - Adulto" pltv-subgroup="",Whindersson Nunes - Adulto (1080p - Full HD)
+m37
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qCM2LtM/Whindersson-Nunes-Adulto-CAPA.jpg" group-title="Whindersson Nunes - Adulto" pltv-subgroup="",Whindersson Nunes - Adulto (720p - HD)
+m22
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qCM2LtM/Whindersson-Nunes-Adulto-CAPA.jpg" group-title="Whindersson Nunes - Adulto" pltv-subgroup="",Whindersson Nunes - Adulto (480p - SD)
+m18
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qCM2LtM/Whindersson-Nunes-Adulto-CAPA.jpg" group-title="Whindersson Nunes - Adulto" pltv-subgroup="",Whindersson Nunes - Adulto (240p - SD)
+m36
+
 #EXTINF:-1 tvg-logo="Polar
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1r6dQnS/Polar-CAPA.jpg" group-title="Polar" pltv-subgroup="",Polar (1080p - Full HD)
 https://lh3.googleusercontent.com/qp6mvGZJSLWbnF7yGaYHzi_0z8yYam2KeT9Sxiy8JN6bCFc3M31tNRFua2JdsdaKc4vQ2jW8Vb-Ubef_Jk-MsLVH64sk-ywFqcGxhNJMQ9-Vd17cfoOXENyTlWkrpfUInwJQR6Ti7tEFwuj-En9QWe8qu5Ta2NMZosLdsWOYFCtonVnjBgCVRmPSN5CB0ARWHmD5AiTr4ADhZz2Zafh6oUIJBS_qUT0MUki3E3gRTdaa68NflxMpCTf4Z8q9ff3tPgCb3-uMfCJO4fzhOUMO1gFK1MohK67uBBNB8LypIsaz-F-quEca0CyJwMadztHE1TKxv5uOSiytz6L36wVw3xihlo8h8MVY5MON3buAIGwOPF6zQrbBZYXTAJVXDjRykYDaZtsgaZd-1oqM9ySPVCnjAy3_1qR0mg6Ucq_KLf7dgQkryme2fVwFMXh9rt_OWqifD_qpucdZ7e69o4jVzbTUM19fwQzPPmncrOAHn5Fuhx3JvlDERdb2Q6jTzRO2HpM9b9UY7CAEd5u0TPLWanwb4gfKiDylwMUneJdmMvHEAPI0Ar5_mKXplAFv2lGHacG4PbAujvC9YYEbiOXoeQh5Y2fUqTAMEHLU4ZH1JS3a5smhOKnwyPj9LTl42KSCYgmvsVWEkUDyl3-TsfQQLHO-4egjGUQ=m37
@@ -42,13 +52,17 @@ https://lh3.googleusercontent.com/5n8_u62M-P4AlBXgvKIeCDHhtvoi9ZKcjPy9y-L39u6rfp
 
 #EXTINF:-1 tvg-logo="O Menino Que Queria Ser Rei
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8Bcq7Pj/O-Menino-que-Queria-Ser-Rei-CAPA.jpg" group-title="O Menino que Queria Ser Rei" pltv-subgroup="",O Menino que Queria Ser Rei (720p - HD)
-https://lh3.googleusercontent.com/WJb2_7BfG2RnuFSOS0gfA6bSC6VDNQ84Py2VtbpUaW73sQERqVr-mObNgmXPXK4y7L3HIc3SbID7cYICXPXQo4Kcl2mLXn2fdDX1kMHjawFNuX_qFEtisBcq4NiMEzbaYHrRPsJV0zJXw00XRGo8hISd3BeBQKpG7jDkS-OpXGDehTfJe3bEivAZjUy5KiW5oeUbge4gV5Ucd2i8SYGiM0OmRLUnLMqMAt3I-P_rGzK11rTxKm-E6b4EUDgFY5vX2lIzVeg2tMhBESD9WAHKlShi54qcFhUdwBm6XpZv1xunPb2pt0KHkpiIk2lm7czW5g8a0s3UsaWXFadJdNh0MXLJNLtctAbsDdcXqIWpqxJeucI1Z7ADDfmepsYAXvjiwPzxzZErLfODhGqfnPzvEzXJu5gxvJKeQThBTBTvRAaRL_aMxM6Qossloj78r7mVVV2TQaoHe_KrktmZaTuO_ykSwZFCtkWRpGB8sRPBqLVo5kiYLgnCLgoIIbxDujT5G8mmMPAOHj6_agdCWcYGdfPL3Wr6UE3rk8xMSzniwab7ako0YGfrBmKXqrk3QEGUZdFjV7JYunj4sNVW-f2wtv7f441jxwfKFDvGxPqzakPMVgpF98QLq2PBTl1DucUr9aakzNjY3FbDo3BTrsOR9SHubXuy6Cs=m22
+m37
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8Bcq7Pj/O-Menino-que-Queria-Ser-Rei-CAPA.jpg" group-title="O Menino que Queria Ser Rei" pltv-subgroup="",O Menino que Queria Ser Rei (720p - HD)
+m22
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8Bcq7Pj/O-Menino-que-Queria-Ser-Rei-CAPA.jpg" group-title="O Menino que Queria Ser Rei" pltv-subgroup="",O Menino que Queria Ser Rei (480p - SD)
-https://lh3.googleusercontent.com/WJb2_7BfG2RnuFSOS0gfA6bSC6VDNQ84Py2VtbpUaW73sQERqVr-mObNgmXPXK4y7L3HIc3SbID7cYICXPXQo4Kcl2mLXn2fdDX1kMHjawFNuX_qFEtisBcq4NiMEzbaYHrRPsJV0zJXw00XRGo8hISd3BeBQKpG7jDkS-OpXGDehTfJe3bEivAZjUy5KiW5oeUbge4gV5Ucd2i8SYGiM0OmRLUnLMqMAt3I-P_rGzK11rTxKm-E6b4EUDgFY5vX2lIzVeg2tMhBESD9WAHKlShi54qcFhUdwBm6XpZv1xunPb2pt0KHkpiIk2lm7czW5g8a0s3UsaWXFadJdNh0MXLJNLtctAbsDdcXqIWpqxJeucI1Z7ADDfmepsYAXvjiwPzxzZErLfODhGqfnPzvEzXJu5gxvJKeQThBTBTvRAaRL_aMxM6Qossloj78r7mVVV2TQaoHe_KrktmZaTuO_ykSwZFCtkWRpGB8sRPBqLVo5kiYLgnCLgoIIbxDujT5G8mmMPAOHj6_agdCWcYGdfPL3Wr6UE3rk8xMSzniwab7ako0YGfrBmKXqrk3QEGUZdFjV7JYunj4sNVW-f2wtv7f441jxwfKFDvGxPqzakPMVgpF98QLq2PBTl1DucUr9aakzNjY3FbDo3BTrsOR9SHubXuy6Cs=m18
+m18
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8Bcq7Pj/O-Menino-que-Queria-Ser-Rei-CAPA.jpg" group-title="O Menino que Queria Ser Rei" pltv-subgroup="",O Menino que Queria Ser Rei (240p - SD)
-https://lh3.googleusercontent.com/WJb2_7BfG2RnuFSOS0gfA6bSC6VDNQ84Py2VtbpUaW73sQERqVr-mObNgmXPXK4y7L3HIc3SbID7cYICXPXQo4Kcl2mLXn2fdDX1kMHjawFNuX_qFEtisBcq4NiMEzbaYHrRPsJV0zJXw00XRGo8hISd3BeBQKpG7jDkS-OpXGDehTfJe3bEivAZjUy5KiW5oeUbge4gV5Ucd2i8SYGiM0OmRLUnLMqMAt3I-P_rGzK11rTxKm-E6b4EUDgFY5vX2lIzVeg2tMhBESD9WAHKlShi54qcFhUdwBm6XpZv1xunPb2pt0KHkpiIk2lm7czW5g8a0s3UsaWXFadJdNh0MXLJNLtctAbsDdcXqIWpqxJeucI1Z7ADDfmepsYAXvjiwPzxzZErLfODhGqfnPzvEzXJu5gxvJKeQThBTBTvRAaRL_aMxM6Qossloj78r7mVVV2TQaoHe_KrktmZaTuO_ykSwZFCtkWRpGB8sRPBqLVo5kiYLgnCLgoIIbxDujT5G8mmMPAOHj6_agdCWcYGdfPL3Wr6UE3rk8xMSzniwab7ako0YGfrBmKXqrk3QEGUZdFjV7JYunj4sNVW-f2wtv7f441jxwfKFDvGxPqzakPMVgpF98QLq2PBTl1DucUr9aakzNjY3FbDo3BTrsOR9SHubXuy6Cs=m36
+m36
 
 #EXTINF:-1 tvg-logo="Como Treinar o seu Dragão 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vZ2nr0Y/Como-Treinar-o-seu-Drag-o-3-CAPA.jpg" group-title="Como Treinar o seu Dragão 3" pltv-subgroup="",Como Treinar o seu Dragão 3 (720p - HD)
+m37
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vZ2nr0Y/Como-Treinar-o-seu-Drag-o-3-CAPA.jpg" group-title="Como Treinar o seu Dragão 3" pltv-subgroup="",Como Treinar o seu Dragão 3 (720p - HD)
 m22
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vZ2nr0Y/Como-Treinar-o-seu-Drag-o-3-CAPA.jpg" group-title="Como Treinar o seu Dragão 3" pltv-subgroup="",Como Treinar o seu Dragão 3 (480p - SD)
@@ -78,11 +92,13 @@ https://lh3.googleusercontent.com/eGPt8XbeN6sX7gDkoLnQpwYl5LZyEb0OU_NsfPVFavJFU8
 
 #EXTINF:-1 tvg-logo="Superação: O Milagre da Fé
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ncmPVZc/Supera-o-O-Milagre-da-F-CAPA.jpg" group-title="Superação: O Milagre da Fé" pltv-subgroup="",Superação: O Milagre da Fé (720p - HD)
-https://lh3.googleusercontent.com/VJKhLlVG8gZ8f2D3iV2cqRF4XQzxL2qorpfbgCaDLhQgiXAthXrEqOmsib9YFK-wxTwUliMBYODL5NBDkkcg9ruvURFrYLhBFbvO9FAvo3KaTLYtRLEZ18cn5cfuJelYO4_oMi6JSWQoQTFRI6RULGi1W6xHUcxJhiDtWw2KDe3G855AiMlp8h9dYro5L_Q_xg8kVz93jYu90jnheunoyvNv2TmNqGAHRrj2-bKFog9JP8KKwKMbFn8X9yg3TC_dC-rZE65W6333IydkX6v-_xbE6EGqhIRSkF6ZI5vejKPox0xavwyddVast_-gDC8P6_xpX64JnlsMHXxo813WVk5jwU_TcsxYkBAKkxB89NRJUoS6HyzusTfrqAtWW30S4vMBZTO6dr2KtEjWnHJ-YlzBWVJ9h3XEEYUHnZw0iQ3-MAq4gzSEAfL32Y_wwFRbMME4Ab_dhtzlsYeG1H1V61e9kSrEbjVqrelCWNCmnR71oWXGFYm9_XCZev8s0sJwRZ6obHuIL810XHNhfdqp4OUxcyRoKAN7HoGNKl1bxWD0BqgiB4jLytpwPWvNIAQ8O0xCE-b7U91FrC653d0rZLaBDjppJTzgFDBrXIyZXCsSCILRH730YGrFYnQgwDYwHf5vTtxHJAMRoy2aaMQG7YYxFpMtDXQ=m22
+m37
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ncmPVZc/Supera-o-O-Milagre-da-F-CAPA.jpg" group-title="Superação: O Milagre da Fé" pltv-subgroup="",Superação: O Milagre da Fé (720p - HD)
+m22
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ncmPVZc/Supera-o-O-Milagre-da-F-CAPA.jpg" group-title="Superação: O Milagre da Fé" pltv-subgroup="",Superação: O Milagre da Fé (480p - SD)
-https://lh3.googleusercontent.com/VJKhLlVG8gZ8f2D3iV2cqRF4XQzxL2qorpfbgCaDLhQgiXAthXrEqOmsib9YFK-wxTwUliMBYODL5NBDkkcg9ruvURFrYLhBFbvO9FAvo3KaTLYtRLEZ18cn5cfuJelYO4_oMi6JSWQoQTFRI6RULGi1W6xHUcxJhiDtWw2KDe3G855AiMlp8h9dYro5L_Q_xg8kVz93jYu90jnheunoyvNv2TmNqGAHRrj2-bKFog9JP8KKwKMbFn8X9yg3TC_dC-rZE65W6333IydkX6v-_xbE6EGqhIRSkF6ZI5vejKPox0xavwyddVast_-gDC8P6_xpX64JnlsMHXxo813WVk5jwU_TcsxYkBAKkxB89NRJUoS6HyzusTfrqAtWW30S4vMBZTO6dr2KtEjWnHJ-YlzBWVJ9h3XEEYUHnZw0iQ3-MAq4gzSEAfL32Y_wwFRbMME4Ab_dhtzlsYeG1H1V61e9kSrEbjVqrelCWNCmnR71oWXGFYm9_XCZev8s0sJwRZ6obHuIL810XHNhfdqp4OUxcyRoKAN7HoGNKl1bxWD0BqgiB4jLytpwPWvNIAQ8O0xCE-b7U91FrC653d0rZLaBDjppJTzgFDBrXIyZXCsSCILRH730YGrFYnQgwDYwHf5vTtxHJAMRoy2aaMQG7YYxFpMtDXQ=m18
+m18
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ncmPVZc/Supera-o-O-Milagre-da-F-CAPA.jpg" group-title="Superação: O Milagre da Fé" pltv-subgroup="",Superação: O Milagre da Fé (240p - SD)
-https://lh3.googleusercontent.com/VJKhLlVG8gZ8f2D3iV2cqRF4XQzxL2qorpfbgCaDLhQgiXAthXrEqOmsib9YFK-wxTwUliMBYODL5NBDkkcg9ruvURFrYLhBFbvO9FAvo3KaTLYtRLEZ18cn5cfuJelYO4_oMi6JSWQoQTFRI6RULGi1W6xHUcxJhiDtWw2KDe3G855AiMlp8h9dYro5L_Q_xg8kVz93jYu90jnheunoyvNv2TmNqGAHRrj2-bKFog9JP8KKwKMbFn8X9yg3TC_dC-rZE65W6333IydkX6v-_xbE6EGqhIRSkF6ZI5vejKPox0xavwyddVast_-gDC8P6_xpX64JnlsMHXxo813WVk5jwU_TcsxYkBAKkxB89NRJUoS6HyzusTfrqAtWW30S4vMBZTO6dr2KtEjWnHJ-YlzBWVJ9h3XEEYUHnZw0iQ3-MAq4gzSEAfL32Y_wwFRbMME4Ab_dhtzlsYeG1H1V61e9kSrEbjVqrelCWNCmnR71oWXGFYm9_XCZev8s0sJwRZ6obHuIL810XHNhfdqp4OUxcyRoKAN7HoGNKl1bxWD0BqgiB4jLytpwPWvNIAQ8O0xCE-b7U91FrC653d0rZLaBDjppJTzgFDBrXIyZXCsSCILRH730YGrFYnQgwDYwHf5vTtxHJAMRoy2aaMQG7YYxFpMtDXQ=m36
+m36
 
 #EXTINF:-1 tvg-logo="Batman: Silêncio
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vzHdsWc/Batman-Sil-ncio-CAPA.jpg" group-title="Batman: Silêncio" pltv-subgroup="",Batman: Silêncio (1080p - Full HD)
