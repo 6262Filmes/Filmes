@@ -1,1 +1,13 @@
+<layouttype>thumbnail</layouttype>
 
+
+<channels>
+<channel>
+<name>Iana</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/6262Filmes/Filmes/master/HOME/INICIO</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+</channels>
