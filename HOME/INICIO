@@ -3,25 +3,9 @@
 
 <channels>
 <channel>
-<name>Live TV</name>
+<name>FILMES</name>
 <thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info>portugalkodi.com</info>
-</channel>
-
-<channel>
-<name>Movies</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info>portugalkodi.com</info>
-</channel>
-
-<channel>
-<name>Youtube</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/6262Filmes/Filmes/master/HOME/FILMES/FILMESPORANO</externallink>
 <fanart></fanart>
 <info>portugalkodi.com</info>
 </channel>
