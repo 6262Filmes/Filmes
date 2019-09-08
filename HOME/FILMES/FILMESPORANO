@@ -3,7 +3,23 @@
 
 <channels>
 <channel>
+<name>Filmes do 2019</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
 <name>Filmes do 2018</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Filmes do 2017</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
 <fanart></fanart>
