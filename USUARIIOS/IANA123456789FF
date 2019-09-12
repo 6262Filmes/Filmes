@@ -28,6 +28,24 @@ enla.innerHTML = (enla.innerHTML == '-') ? '+' : '-';
 <info></info>
 </channel>
 
+<channels>
+<channel>
+<name>Jonh Ric</name>
+<thumbnail>https://i.ibb.co/0sj8pjN/Fernanda123456789ff.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/5454Netvstream/NetvStream/master/Home/Home</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channels>
+<channel>
+<name>Cleide</name>
+<thumbnail>https://i.ibb.co/0sj8pjN/Fernanda123456789ff.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/5454Netvstream/NetvStream/master/Home/Home</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
 </channels>
 
 
