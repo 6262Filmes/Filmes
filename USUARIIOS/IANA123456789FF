@@ -31,7 +31,7 @@ enla.innerHTML = (enla.innerHTML == '-') ? '+' : '-';
 <channels>
 <channel>
 <name>Jonh Ric</name>
-<thumbnail>https://i.ibb.co/0sj8pjN/Fernanda123456789ff.jpg</thumbnail>
+<thumbnail>https://i.ibb.co/mzMhLjk/jonatas.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/5454Netvstream/NetvStream/master/Home/Home</externallink>
 <fanart></fanart>
 <info></info>
@@ -40,7 +40,7 @@ enla.innerHTML = (enla.innerHTML == '-') ? '+' : '-';
 <channels>
 <channel>
 <name>Cleide</name>
-<thumbnail>https://i.ibb.co/0sj8pjN/Fernanda123456789ff.jpg</thumbnail>
+<thumbnail>https://i.ibb.co/bd6w9HB/Donacleide.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/5454Netvstream/NetvStream/master/Home/Home</externallink>
 <fanart></fanart>
 <info></info>
